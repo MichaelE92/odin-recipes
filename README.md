@@ -2,7 +2,7 @@
 
 I am using HTML to make a project regarding recipes. This is practice for HTML only and aims to further cement my understanding of best practices learned so far.
 
-I am using Umbtuntu for terminal navigation and file creation. Git and GitHub alongside one another for commits and displaying of the project. Finally, VSCode for text editing.
+I am using Ubuntu for terminal navigation and file creation. Git and GitHub alongside one another for commits and displaying of the project. Finally, VSCode for text editing.
 
 ## 🌟 Highlights
 
@@ -10,4 +10,4 @@ I am using Umbtuntu for terminal navigation and file creation. Git and GitHub al
 
 ### ✍️ Authors
 
-https://github.com/MikeCodes92
+https://github.com/MichaelE92
